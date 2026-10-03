@@ -30,4 +30,5 @@ Recepción y procesamiento digital de señales de la red de satélites meteorol�
 
 ### 📄 Documentación
 * **Informe Técnico:** [English (PDF)](docs/technical_report_en.pdf) | [Español (PDF)](docs/technical_report_es.pdf)
-* **Presentación:** [English (PDF)](docs/presentation_en.pdf) | [Español (PDF Alta Resolución)](https://drive.google.com/file/d/1-Ss4LPhpjwyROpp-A3nImF62v6QbwMMK/view?usp=sharing)
+* **Presentación:** [English (PDF)](docs/presentation_es.pptx) | [Español (PDF Alta Resolución)](https://drive.google.com/file/d/1-Ss4LPhpjwyROpp-A3nImF62v6QbwMMK/view?usp=sharing)
+
