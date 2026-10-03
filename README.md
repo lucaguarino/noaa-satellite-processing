@@ -14,8 +14,8 @@ End-to-end reception and digital signal processing of NOAA weather satellite ima
 * **Hardware & RF Reception:** Design, assembly, and testing of a custom **Dipole-V antenna** optimized for NOAA frequencies, including a 3D-printed mount and SMA to coaxial connections.
 
 ### 📄 Documentation
-* **Technical Report:** [English (PDF)](docs/technical_report_en.pdf) | [Español (PDF)](docs/technical_report_es.pdf)
-* **Presentation:** [English (PDF)](docs/presentation_en.pdf) | [Español (High-Res PDF)](https://drive.google.com/file/d/1-Ss4LPhpjwyROpp-A3nImF62v6QbwMMK/view?usp=sharing)
+* **Technical Report:** [English (PDF)](technical_report_en.pdf)
+* **Presentation:** [English (.pptx)](presentation_en.pdf) | [English (High-Res PDF)]()
 
 ---
 
@@ -29,6 +29,6 @@ Recepción y procesamiento digital de señales de la red de satélites meteorol�
 * **Infraestructura (Hardware):** Diseño, construcción y testeo de una **antena Dipolo-V**, integrando un soporte impreso en 3D y conexiones SMA a cable coaxial sin pérdida de continuidad.
 
 ### 📄 Documentación
-* **Informe Técnico:** [English (PDF)](docs/technical_report_en.pdf) | [Español (PDF)](docs/technical_report_es.pdf)
-* **Presentación:** [English (PDF)](docs/presentation_es.pptx) | [Español (PDF Alta Resolución)](https://drive.google.com/file/d/1-Ss4LPhpjwyROpp-A3nImF62v6QbwMMK/view?usp=sharing)
+* **Informe Técnico:** [Español (PDF)](technical_report_es.pdf)
+* **Presentación:** [Español (.pptx)](presentation_es.pptx) | [Español (PDF Alta Resolución)](https://drive.google.com/file/d/1-Ss4LPhpjwyROpp-A3nImF62v6QbwMMK/view?usp=sharing)
 
