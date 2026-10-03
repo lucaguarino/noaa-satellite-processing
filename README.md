@@ -15,7 +15,7 @@ End-to-end reception and digital signal processing of NOAA weather satellite ima
 
 ### 📄 Documentation
 * **Technical Report:** [English (PDF)](technical_report_en.pdf)
-* **Presentation:** [English (.pptx)](presentation_en.pdf) | [English (High-Res PDF)]()
+* **Presentation:** [English (PDF)]()
 
 ---
 
@@ -30,5 +30,5 @@ Recepción y procesamiento digital de señales de la red de satélites meteorol�
 
 ### 📄 Documentación
 * **Informe Técnico:** [Español (PDF)](technical_report_es.pdf)
-* **Presentación:** [Español (.pptx)](presentation_es.pptx) | [Español (PDF Alta Resolución)](https://drive.google.com/file/d/1-Ss4LPhpjwyROpp-A3nImF62v6QbwMMK/view?usp=sharing)
+* **Presentación:** [Español (PDF)](https://drive.google.com/file/d/1-Ss4LPhpjwyROpp-A3nImF62v6QbwMMK/view?usp=sharing)
 
